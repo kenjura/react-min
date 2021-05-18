@@ -8,3 +8,6 @@
 
 # 0.1.1
 + changed version to please npm
+
+# 0.1.2
++ made all dev dependencies core dependencies
