@@ -10,7 +10,7 @@ export default class FooComponent extends React.Component {
   }
  
   render(props) {
-    return <div>foo <a href="#">{this.state.foo}</a> component</div>
+    return <div>foobly <a href="#">{this.state.foo}</a> component</div>
   }
 }
  
