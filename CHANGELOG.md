@@ -5,3 +5,6 @@
 
 # 0.1.0a
 + packaged as a lib
+
+# 0.1.1
++ changed version to please npm
