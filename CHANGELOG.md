@@ -11,3 +11,6 @@
 
 # 0.1.2
 + made all dev dependencies core dependencies
+
+# 0.1.3
++ upgraded react to 17.0.2
